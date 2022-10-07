@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "nombre": "Promoción Malbec",
+        "idCategoria":1,
+        "detalle": "DADA Malbec - Plan B - Chacabuco",
+        "precio": 1800,
+        "stock": 20,
+        "img": "oferta1.jpeg"
+    },
+    {
+        "id":2,
+        
+        "nombre": "Promoción Malbec",
+        "idCategoria":3,
+        "detalle": "Tucumen Reserva - Los Haraldos - Alma Mora",
+        "precio": 3200,
+        "stock": 15,
+        "img": "oferta2.jpeg"
+    },
+    {
+        "id":3,
+        "nombre": "Promoción Malbec",
+        "idCategoria":1,
+        "detalle": "Nampe - Vaca Club - Estancia Mendoza",
+        "precio": 1500,
+        "stock": 25,
+        "img": "oferta3.jpeg"
+    },
+    {
+        "id":4,
+        "nombre": "Promoción Malbec",
+        "idCategoria":2,
+        "detalle": "Fond de Cave - Alma Mora - Valmont",
+        "precio": 3400,
+        "stock": 8,
+        "img": "oferta4.jpeg"
+    },
+    {
+        "id":5,
+        "nombre": "MIX Mosquita Muerta",
+        "idCategoria":3,
+        "detalle": "Sapo de Otro Pozo - PISPI - Blend MM",
+        "precio": 5400,
+        "stock": 20,
+        "img": "oferta5.jpeg"
+    },
+    {
+        "id":6,
+        "nombre": "PREMIUM",
+        "idCategoria":2,
+        "detalle": "LUCAS CATENZA - HERMANDAD",
+        "precio": 8500,
+        "stock": 10,
+        "img": "oferta6.jpeg"
+    }
+
+
+
+]

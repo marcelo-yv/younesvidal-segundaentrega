@@ -1,0 +1,40 @@
+.marg {
+    margin-right: 1rem;
+    color: #EA5637;
+}
+
+.EncabezadoInicial {
+    text-align: center;
+    background-color: #EA5637;
+    color: white;
+}
+
+.Item-ListCont {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+}
+
+.Item-ListCont-title {
+    text-align: center;
+}
+
+.itemList-children {
+    margin: 1rem;
+    text-align: center;
+  
+}
+
+.linkCarrito{
+    text-decoration: none;
+}
+
+.img-oferta{
+    width: 300px;
+    height: 300px;
+}
+.btn-carrito{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
